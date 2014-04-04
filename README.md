@@ -6,6 +6,7 @@ Library for calculating the norwegian public holidays.
 
     (use 'clj-norwegian-holidays.norway)
     (public-holiday? 2014 4 20)
+    => true
 
 ## License
 
