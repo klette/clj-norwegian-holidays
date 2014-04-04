@@ -2,6 +2,8 @@
 
 Library for calculating the norwegian public holidays.
 
+[![Build Status](https://travis-ci.org/klette/clj-norwegian-holidays.svg?branch=master)](https://travis-ci.org/klette/clj-norwegian-holidays)
+
 ## Usage
 
     (use 'clj-norwegian-holidays.norway)
